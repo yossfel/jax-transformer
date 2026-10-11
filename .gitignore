@@ -1,0 +1,13 @@
+# Python / uv
+.venv/
+__pycache__/
+*.pyc
+
+# Dataset (downloaded and verified by data.py) and training outputs
+data/
+checkpoints/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
